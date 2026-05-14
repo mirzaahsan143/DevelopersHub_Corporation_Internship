@@ -1,10 +1,7 @@
 <div align="center">
   <h1>🚀 Data Science & Analytics Internship</h1>
   <p><b>DevelopersHub Corporation</b></p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-11557C?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
+ </div>
 
 <hr />
 
@@ -71,6 +68,6 @@ This repository contains five comprehensive data science tasks completed during 
 <hr />
 
 <div align="center">
-  <p>Developed with ❤️ by <b>Mirza Muhammad Ahsan</b></p>
-  <p><i>Certified Prompt Engineer | BS Computer Science Student</i></p>
+  <p>Developed by <b>Mirza Muhammad Ahsan</b></p>
+  <p><i>Data Analysists | BS Computer Science Student</i></p>
 </div>
